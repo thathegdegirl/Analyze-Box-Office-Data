@@ -1,0 +1,2 @@
+# Analyze-Box-Office-Data
+Analyzing Box Office Data with Plotly and Python. The motion picture industry is raking in more revenue than ever with its expansive growth the world over. Can we build models to accurately predict movie revenue? Could the results from these models be used to further increase revenue? I try to answer these questions by way of exploratory data analysis (EDA)  and feature engineering.
